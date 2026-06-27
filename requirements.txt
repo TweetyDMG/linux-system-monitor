@@ -1,0 +1,12 @@
+# Core
+psutil>=5.9.0
+
+# GUI
+PyQt5>=5.15.0
+
+# Graphics
+pyqtgraph>=0.13.0
+numpy>=1.26.0
+
+# Packaging (опционально — для сборки standalone-бинарника)
+# pyinstaller>=6.0.0
